@@ -1,0 +1,18 @@
+body {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flow {
+    text-align: center;
+}
+
+.git {
+    color: red;
+}
+.p1{
+    border-left: 5px solid blue;
+}
+.p1:hover{
+    border-left: 5px solid green;
+}
